@@ -5,9 +5,9 @@ export const Faqs = () => {
 
   const questions = [
     {
-      text: "What's the best thing about Switzerland?",
+      text: "What's the best thing about UAE?",
       answer:
-        'There are many great things about Switzerland, but some of the most popular tourist destinations include the Matterhorn, the Jungfraujoch, and Lake Geneva.',
+        'There are many great things about UAE, but some of the most popular tourist destinations include the Matterhorn, the Jungfraujoch, and Lake Geneva.',
     },
     {
       text: 'How do you make holy water?',
@@ -21,29 +21,29 @@ export const Faqs = () => {
     },
 
     {
-      text: 'Whats the best thing about Switzerland?',
+      text: 'Whats the best thing about UAE?',
       answer:
         'You boil the hell out of it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.',
     },
     {
-      text: 'Whats the best thing about Switzerland?',
+      text: 'Whats the best thing about UAE?',
       answer:
         'You boil the hell out of it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.',
     },
     {
-      text: 'Whats the best thing about Switzerland?',
+      text: 'Whats the best thing about UAE?',
       answer:
         'You boil the hell out of it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.',
     },
     {
-      text: 'Whats the best thing about Switzerland?',
+      text: 'Whats the best thing about UAE?',
       answer:
         'You boil the hell out of it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.',
     },
     {
-      text: "What's the best thing about Switzerland?",
+      text: "What's the best thing about UAE?",
       answer:
-        'There are many great things about Switzerland, but some of the most popular tourist destinations include the Matterhorn, the Jungfraujoch, and Lake Geneva.',
+        'There are many great things about UAE, but some of the most popular tourist destinations include the Matterhorn, the Jungfraujoch, and Lake Geneva.',
     },
     // ... remaining questions and answers
   ];
