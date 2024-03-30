@@ -1,6 +1,6 @@
-import { useState } from "react";
-// import { ChevronDownIcon } from '@heroicons/react/20/solid';
-import { Switch } from "@headlessui/react";
+
+import { useState } from 'react';
+import { Switch } from '@headlessui/react';
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
@@ -144,6 +144,7 @@ const ContactUs = () => {
           </p>
           <p className="text-md text-gray-800">+1 (646) 786-5060 </p>
         </div>
+
       </div>
 
       <div>
@@ -242,6 +243,7 @@ const ContactUs = () => {
                   autoComplete="tel"
                   className="block w-full rounded-md border-0 px-3.5 py-2 pl-20 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-green-600 sm:text-sm sm:leading-6"
                 />
+
               </div>
             </div>
 
@@ -269,6 +271,7 @@ const ContactUs = () => {
               <label
                 htmlFor="message"
                 className="block text-sm font-semibold leading-6 text-gray-900"
+
               >
                 Message
               </label>
@@ -284,6 +287,7 @@ const ContactUs = () => {
                 />
               </div>
             </div>
+
             <Switch.Group as="div" className="flex gap-x-4 sm:col-span-2">
               <div className="flex h-6 items-center">
                 <Switch
@@ -324,6 +328,7 @@ const ContactUs = () => {
           </div>
         </form>
       </div>
+
     </div>
   );
 };
