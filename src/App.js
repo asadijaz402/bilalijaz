@@ -10,7 +10,7 @@ import { Faqs } from './components/Faqs';
 
 function App() {
   const handleClick = () => {
-    const phoneNumber = '+971563370599';
+    const phoneNumber = '+923136899829';
 
     const whatsappUrl = `https://wa.me/${phoneNumber}`;
 
